@@ -35,7 +35,7 @@ The "Hand-Controlled Virtual Mouse" is an open-source project that leverages com
 
 ## Impact of Changes
 
-<img height="100" src="C:\Users\Dell\OneDrive\Pictures\Screenshots\Screenshot 2025-03-09 141831.png"/>
+![Screenshot 2025-03-09 141831](https://github.com/user-attachments/assets/b1bf691d-b248-4172-935e-7ce11a80aedf)
 
 ## Conclusion
 
