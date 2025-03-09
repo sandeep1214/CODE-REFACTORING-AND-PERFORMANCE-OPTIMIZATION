@@ -15,23 +15,23 @@ The "Hand-Controlled Virtual Mouse" is an open-source project that leverages com
 
 **2.Performance Optimization**
 
-Optimized Hand Detection Pipeline:
+<ins>Optimized Hand Detection Pipeline</ins>:
 
-Used multi-threading to parallelize video capture and processing, reducing lag.
+* Used multi-threading to parallelize video capture and processing, reducing lag.
 
-Optimized frame resizing to reduce computational load.
+* Optimized frame resizing to reduce computational load.
 
-Efficient Data Handling:
+<ins>Efficient Data Handling</ins>:
 
-Used NumPy arrays instead of lists for faster operations.
+* Used NumPy arrays instead of lists for faster operations.
 
-Cached frequently used values to avoid redundant calculations.
+* Cached frequently used values to avoid redundant calculations.
 
-Reduced Latency in Cursor Control:
+<ins>Reduced Latency in Cursor Control</ins>:
 
-Implemented a smoothing function to stabilize cursor movements.
+* Implemented a smoothing function to stabilize cursor movements.
 
-Optimized coordinate mapping to improve accuracy and responsiveness.
+* Optimized coordinate mapping to improve accuracy and responsiveness.
 
 ## Impact of Changes
 
