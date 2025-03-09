@@ -1,4 +1,4 @@
-**Code Structure and Readability Improvements**
+#Code Structure and Readability Improvements
 
 Modularized Code: Split monolithic scripts into separate modules for better organization and reusability.
 
@@ -8,7 +8,7 @@ Docstrings and Comments: Added clear documentation and comments to explain the l
 
 Removed Redundant Code: Eliminated duplicate code blocks and unnecessary computations.
 
-##Performance-Optimization
+#Performance-Optimization
 
 Optimized Hand Detection Pipeline:
 
