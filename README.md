@@ -5,13 +5,13 @@ The "Hand-Controlled Virtual Mouse" is an open-source project that leverages com
 
 **1.Code Structure and Readability Improvements**
 
-Modularized Code: Split monolithic scripts into separate modules for better organization and reusability.
+<ins>Modularized Code</ins>: Split monolithic scripts into separate modules for better organization and reusability.
 
-Descriptive Naming: Renamed ambiguous variable and function names to enhance clarity.
+<ins>Descriptive Naming</ins>: Renamed ambiguous variable and function names to enhance clarity.
 
-Docstrings and Comments: Added clear documentation and comments to explain the logic and purpose of functions.
+<ins>Docstrings and Comments</ins>: Added clear documentation and comments to explain the logic and purpose of functions.
 
-Removed Redundant Code: Eliminated duplicate code blocks and unnecessary computations.
+<ins>Removed Redundant Code</ins>: Eliminated duplicate code blocks and unnecessary computations.
 
 **2.Performance Optimization**
 
