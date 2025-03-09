@@ -35,15 +35,15 @@ The "Hand-Controlled Virtual Mouse" is an open-source project that leverages com
 
 ## Impact of Changes
 
-**Aspect**                     **Before Optimization**           **After Optimization**
+**Aspect**           &nbsp          **Before Optimization**    &nbsp       **After Optimization**
 
-Frame Processing Speed          ~20 FPS                             ~30-35 FPS
+Frame Processing Speed   &nbsp       ~20 FPS            &nbsp                 ~30-35 FPS
 
-Cursor Latency                 Noticeable Lag                      Smoother Response
+Cursor Latency      &nbsp           Noticeable Lag       &nbsp               Smoother Response
 
-Code Readability               Moderate Complexity                 Improved Modularity
+Code Readability    &nbsp           Moderate Complexity    &nbsp             Improved Modularity
 
-CPU Utilization                 High (~90%)                         Reduced (~60-70%)
+CPU Utilization     &nbsp            High (~90%)          &nbsp               Reduced (~60-70%)
 
 ## Conclusion
 
